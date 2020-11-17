@@ -16,7 +16,7 @@ if(body.object==='page')
     
 //se reciben y procesan los mensajes
 
-            const webhookEvent=entry.messagin[0];
+            const webhookEvent=entry.messaging[0];
             console.log(webhookEvent);
 
 
