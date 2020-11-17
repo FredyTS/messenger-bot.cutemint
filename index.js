@@ -65,7 +65,7 @@ app.get('/',(req,res)=>{
     </head>
     <body>
         <h1>Bot de Cute-Mint Studio</h1>
-        <h3>Este es la pagina principal del bot</h3>
+        <h3>Este es la pagina principal del bot2</h3>
     </body>
     </html>`);
 })
