@@ -1,0 +1,24 @@
+{
+  "name": "bot-facebook",
+  "version": "1.0.0",
+  "description": "Bot de cute-mint para facebook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "ip",
+    "geo",
+    "country"
+  ],
+  "author": "Alfredo Terrazas Sosa <fredyterrazas55@gmail.com> (https://)",
+  "license": "ISC",
+  "dependencies": {
+    "core-util-is": "^1.0.2",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
