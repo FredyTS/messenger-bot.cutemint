@@ -12,7 +12,7 @@ const body=req.body;
 if(body.object==='page')
 {
 
-     body.array.forEach(entry => {
+     body.entry.forEach(entry => {
     
 //se reciben y procesan los mensajes
 
